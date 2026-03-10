@@ -18,8 +18,7 @@ cpp-journey/
 ├── 04-oops/            # Classes, objects, inheritance
 ├── 05-stl/             # Vectors, maps, algorithms
 ├── 06-data-structures/ # Linked lists, stacks, queues
-├── 07-algorithms/      # Sorting, searching
-└── projects/           # Mini projects
+└── 07-algorithms/      # Sorting, searching
 ```
 
 ## 📈 Progress
